@@ -28,7 +28,7 @@
 | :--- | :--- | :--- | :--- |
 | ⚡ **TgMini** | Lightweight, high-performance Telegram desktop client built with .NET 9 and WPF | C#, .NET 9, WPF | [Repository](https://github.com/frontys/TgMini) |
 | 🎮 **dota2-mcp** | Model Context Protocol server + Game State Integration for Dota 2 real-time analytics | Python, MCP, GSI | [Repository](https://github.com/frontys/dota2-mcp) |
-| ⚛️ **react-itstep** | ITStep Academy: Interactive React 19 + TypeScript assignments with GitHub Pages | React, TypeScript, Vite | [Live Showcase](https://frontys.github.io/react-itstep/) |
+| ⚛️ **react-itstep** | ITStep Academy: React 19 + TypeScript assignments monorepo | React, TypeScript, Vite | [Repository](https://github.com/frontys/react-itstep) |
 | 🎨 **html-css-projects** | ITStep Academy: Responsive multi-page web layouts (Bookstore, Fitness, Clinic, Shop, CRM) | HTML5, CSS3, JavaScript | [Repository](https://github.com/frontys/html-css-projects) |
 | 🍙 **.dotfiles** | Arch Linux & Hyprland desktop environment dotfiles (Waybar, Kitty, Rofi, Wallbash) | Bash, Wayland, CSS | [Repository](https://github.com/frontys/.dotfiles) |
 
