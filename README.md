@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi there 👋, I'm frontys</h1>
+<h1 align="center">Hi there 👋, I'm frontys</h1>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -29,8 +29,9 @@
 | 🎮 **dota2-mcp** | Model Context Protocol server + Game State Integration for Dota 2 | Python, MCP, GSI | [Repository](https://github.com/frontys/dota2-mcp) |
 | 💬 **telegram-overlay** | Sleek overlay utility built with Telethon for Telegram | Python, Telethon, Asyncio | [Repository](https://github.com/frontys/telegram-overlay) |
 | 🤖 **ai-bridge** | Powerful and lightweight wrapper for Google Gemini API | Python, Gemini API | [Repository](https://github.com/frontys/ai-bridge) |
-| ⚡ **TgMini** | Portable, high-performance Telegram utility built for .NET 9 | C#, .NET 9, WinForms/WPF | [Repository](https://github.com/frontys/TgMini) |
+| ⚡ **TgMini** | Portable, high-performance Telegram client built for .NET 9 | C#, .NET 9, WPF | [Repository](https://github.com/frontys/TgMini) |
 | ⚛️ **react-itstep** | React + Vite ITStep assignments, one folder per date | React, TypeScript, Vite | [Live site](https://frontys.github.io/react-itstep/) |
+| 🎨 **html-css-projects** | Responsive HTML5 & CSS3 layout projects (Bookstore, Fitness, Clinic, Shop, CRM) | HTML5, CSS3, JavaScript | [Repository](https://github.com/frontys/html-css-projects) |
 
 ---
 
