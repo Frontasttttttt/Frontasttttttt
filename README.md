@@ -26,12 +26,12 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| 🎮 **dota2-mcp** | Model Context Protocol server + Game State Integration for Dota 2 | Python, MCP, GSI | [Repository](https://github.com/frontys/dota2-mcp) |
-| 💬 **telegram-overlay** | Sleek overlay utility built with Telethon for Telegram | Python, Telethon, Asyncio | [Repository](https://github.com/frontys/telegram-overlay) |
-| 🤖 **ai-bridge** | Powerful and lightweight wrapper for Google Gemini API | Python, Gemini API | [Repository](https://github.com/frontys/ai-bridge) |
-| ⚡ **TgMini** | Portable, high-performance Telegram client built for .NET 9 | C#, .NET 9, WPF | [Repository](https://github.com/frontys/TgMini) |
-| ⚛️ **react-itstep** | React + Vite ITStep assignments, one folder per date | React, TypeScript, Vite | [Live site](https://frontys.github.io/react-itstep/) |
-| 🎨 **html-css-projects** | Responsive HTML5 & CSS3 layout projects (Bookstore, Fitness, Clinic, Shop, CRM) | HTML5, CSS3, JavaScript | [Repository](https://github.com/frontys/html-css-projects) |
+| ⚡ **TgMini** | Lightweight, high-performance Telegram desktop client built with .NET 9 and WPF | C#, .NET 9, WPF | [Repository](https://github.com/frontys/TgMini) |
+| 🎮 **dota2-mcp** | Model Context Protocol server + Game State Integration for Dota 2 real-time analytics | Python, MCP, GSI | [Repository](https://github.com/frontys/dota2-mcp) |
+| 🤖 **ai-bridge** | Lightweight Python automation wrapper & bridge for Google Gemini API and CLI | Python, Gemini API | [Repository](https://github.com/frontys/ai-bridge) |
+| ⚛️ **react-itstep** | ITStep Academy: Interactive React 19 + TypeScript assignments with GitHub Pages | React, TypeScript, Vite | [Live Showcase](https://frontys.github.io/react-itstep/) |
+| 🎨 **html-css-projects** | ITStep Academy: Responsive multi-page web layouts (Bookstore, Fitness, Clinic, Shop, CRM) | HTML5, CSS3, JavaScript | [Repository](https://github.com/frontys/html-css-projects) |
+| 🍙 **.dotfiles** | Arch Linux & Hyprland desktop environment dotfiles (Waybar, Kitty, Rofi, Wallbash) | Bash, Wayland, CSS | [Repository](https://github.com/frontys/.dotfiles) |
 
 ---
 
