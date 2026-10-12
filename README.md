@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/WPF-800F2F?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
         <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
-        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+        <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11" />
       </div>
     </td>
   </tr>
@@ -43,7 +43,6 @@
 | 🎮 **dota2-mcp** | VAC-safe Model Context Protocol server + Game State Integration for Dota 2 real-time analytics, coach suggestions, and live draft advice. | `Python` `MCP` `GSI` | [Repository](https://github.com/frontys/dota2-mcp) |
 | ⚛️ **react-itstep** | ITStep Academy: Modern React 19 + TypeScript multi-project assignments monorepo powered by Vite. | `React 19` `TypeScript` `Vite` | [Repository](https://github.com/frontys/react-itstep) |
 | 🎨 **html-css-projects** | ITStep Academy: Responsive multi-page web layouts showcase (Bookstore, Fitness Club, Medical Clinic, E-Commerce, Service CRM). | `HTML5` `CSS3` `JavaScript` | [Repository](https://github.com/frontys/html-css-projects) |
-| 🍙 **.dotfiles** | Minimalist personal Arch Linux desktop environment rice with Hyprland Wayland compositor, Waybar, Kitty, and dynamic Wallbash themes. | `Bash` `Wayland` `Hyprland` | [Repository](https://github.com/frontys/.dotfiles) |
 
 ---
 
@@ -53,11 +52,11 @@
 
 | Realm | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | ![C#](https://img.shields.io/badge/-C%23-9B111E?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-C9184A?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-800F2F?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-590D22?style=flat-square&logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-3E1F47?style=flat-square&logo=sqlite&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-1A080D?style=flat-square&logo=gnubash&logoColor=white) |
+| **Languages** | ![C#](https://img.shields.io/badge/-C%23-9B111E?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-C9184A?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-800F2F?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-590D22?style=flat-square&logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-3E1F47?style=flat-square&logo=sqlite&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
 | **Desktop & Backend** | ![.NET 9](https://img.shields.io/badge/-.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![WPF](https://img.shields.io/badge/-WPF-9B111E?style=flat-square) ![Telethon](https://img.shields.io/badge/-Telethon-C9184A?style=flat-square&logo=telegram&logoColor=white) ![Asyncio](https://img.shields.io/badge/-Asyncio-800F2F?style=flat-square) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | **Frontend & UI** | ![React 19](https://img.shields.io/badge/-React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **AI & Architecture** | ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-E63946?style=flat-square) ![Gemini API](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white) ![LLM Tooling](https://img.shields.io/badge/-Agentic%20Coding-C9184A?style=flat-square) |
-| **Tools & Environment** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![Hyprland](https://img.shields.io/badge/-Hyprland-00FFFF?style=flat-square&logo=wayland&logoColor=black) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **Tools & Environment** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Windows 11](https://img.shields.io/badge/-Windows%2011-0078D4?style=flat-square&logo=windows11&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 </div>
 
