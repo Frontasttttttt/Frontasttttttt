@@ -41,7 +41,7 @@
 | :--- | :--- | :--- | :--- |
 | ⚡ **TgMini** | Lightweight, high-performance Telegram desktop client with instant QR login, folder sync, in-app media previews, and system tray integration. Single-file standalone. | `C#` `.NET 9` `WPF` | [Repository](https://github.com/frontys/TgMini) |
 | 🎮 **dota2-mcp** | VAC-safe Model Context Protocol server + Game State Integration for Dota 2 real-time analytics, coach suggestions, and live draft advice. | `Python` `MCP` `GSI` | [Repository](https://github.com/frontys/dota2-mcp) |
-| ⚛️ **react-itstep** | ITStep Academy: Modern React 19 + TypeScript multi-project assignments monorepo powered by Vite. | `React 19` `TypeScript` `Vite` | [Repository](https://github.com/frontys/react-itstep) |
+| 🏛️ **itstep** | ITStep Academy: Consolidated coursework, projects & assignments monorepo (C# .NET 9, JavaScript, React 19, Python, C++). | `C# .NET 9` `React 19` `TS` `Python` | [Repository](https://github.com/frontys/itstep) |
 | 🎨 **html-css-projects** | ITStep Academy: Responsive multi-page web layouts showcase (Bookstore, Fitness Club, Medical Clinic, E-Commerce, Service CRM). | `HTML5` `CSS3` `JavaScript` | [Repository](https://github.com/frontys/html-css-projects) |
 
 ---
