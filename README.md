@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E63946,800F2F,0F080C&height=120&section=header" width="100%" alt="Header" />
+</p>
+
 <div align="center">
 
 # ✦ 𝐅 𝐑 𝐎 𝐍 𝐓 𝐘 𝐒 ✦
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=20&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=The+Crimson-Haired+Ruin+Princess;C%23+%26+.NET+9+Desktop+Architect;Python+%26+Automation+Engineer;Occult+Research+Club+President;Forging+High-Performance+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=20&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=520&lines=The+Crimson-Haired+Ruin+Princess;C%23+%26+.NET+9+Desktop+Architect;Python+%26+Automation+Engineer;Occult+Research+Club+President;Crafting+High-Performance+Software" alt="Typing SVG" />
 </p>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
@@ -12,8 +16,8 @@
       <img src="assets/rias-sunset.gif" width="230" style="border-radius: 14px; border: 2px solid #e63946; box-shadow: 0 0 25px rgba(230, 57, 70, 0.45);" alt="Rias Gremory" />
     </td>
     <td align="left" valign="middle">
-      <p><b>🥀 Heiress of the Gremory Clan & Software Engineer</b></p>
-      <p>Building high-performance desktop tools, automated agent workflows, and clean web interfaces. Focused on efficiency, clean architecture, and modern UX.</p>
+      <h3>🥀 Heiress of the Gremory Clan & Software Engineer</h3>
+      <p>Developing lightweight high-performance desktop applications, asynchronous network architectures, and automated agent tooling. Focused on zero-overhead efficiency, clean design patterns, and modern UX.</p>
       <div>
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
         <img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 9" />
@@ -35,13 +39,22 @@
 
 ---
 
+### 🔮 𝐓𝐡𝐞 𝐎𝐜𝐜𝐮𝐥𝐭 𝐀𝐠𝐞𝐧𝐝𝐚 — 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐅𝐨𝐜𝐮𝐬
+
+- ⚡ **Desktop Engineering:** Active development of [**TgMini**](https://github.com/frontys/TgMini) — standalone .NET 9 WPF Telegram client with zero-bloat background idling, RAM trimming, and native Win32 notification tray.
+- 🎮 **Game Telemetry & AI:** Maintaining [**dota2-mcp**](https://github.com/frontys/dota2-mcp) — VAC-safe real-time Game State Integration (GSI) receiver and Model Context Protocol server for match analytics.
+- 🏛️ **Coursework Monorepo:** Consolidating asynchronous network servers, multithreaded systems, and React 19 apps in [**itstep**](https://github.com/frontys/itstep).
+- 🤖 **Agentic Tooling:** Designing automated workflows and bridge architectures with **Google Gemini & Antigravity**.
+
+---
+
 ### 🩸 𝐂𝐫𝐢𝐦𝐬𝐨𝐧 𝐆𝐫𝐢𝐦𝐨𝐢𝐫𝐞𝐬 — 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
-| Project | Description | Stack | Link |
+| Project | Description | Badges | Quick Links |
 | :--- | :--- | :--- | :--- |
-| ⚡ **TgMini** | Lightweight, high-performance Telegram desktop client with instant QR login, folder sync, in-app media previews, and system tray integration. Single-file standalone. | `C#` `.NET 9` `WPF` | [Repository](https://github.com/frontys/TgMini) |
-| 🎮 **dota2-mcp** | VAC-safe Model Context Protocol server + Game State Integration for Dota 2 real-time analytics, coach suggestions, and live draft advice. | `Python` `MCP` `GSI` | [Repository](https://github.com/frontys/dota2-mcp) |
-| 🏛️ **itstep** | ITStep Academy: Consolidated coursework, projects & assignments monorepo (C# .NET 9, JavaScript, React 19, HTML5/CSS3, Python, C++). | `C# .NET 9` `React 19` `JS` `HTML5` `Python` | [Repository](https://github.com/frontys/itstep) |
+| ⚡ **TgMini** | Lightweight, high-performance Telegram desktop client for Windows (.NET 9 + WPF). Features instant QR login, folder synchronization, inline media previews, notification overlay, RAM idle trimming, and native Win32 tray. Single-file standalone binary. | [![Release](https://img.shields.io/github/v/release/frontys/TgMini?color=E63946&label=v1.0.6&style=flat-square)](https://github.com/frontys/TgMini/releases/latest) [![Stars](https://img.shields.io/github/stars/frontys/TgMini?color=590D22&style=flat-square)](https://github.com/frontys/TgMini) | [⬇️ Latest Release](https://github.com/frontys/TgMini/releases/latest)<br>[📂 Repository](https://github.com/frontys/TgMini) |
+| 🎮 **dota2-mcp** | VAC-safe Model Context Protocol (MCP) server + Game State Integration receiver for Dota 2 real-time telemetry, coaching suggestions, and live draft advice. Built exclusively with Python standard library (zero pip dependencies). | [![Safety](https://img.shields.io/badge/VAC-Safe-E63946?style=flat-square)](https://github.com/frontys/dota2-mcp) [![Stars](https://img.shields.io/github/stars/frontys/dota2-mcp?color=590D22&style=flat-square)](https://github.com/frontys/dota2-mcp) | [📂 Repository](https://github.com/frontys/dota2-mcp) |
+| 🏛️ **itstep** | Comprehensive ITStep Academy coursework monorepo covering .NET 9 system/network programming (TCP/UDP sockets, multithreading, atomic monitors), modern JavaScript, React 19 modular applications, and HTML5/CSS3 layouts. | [![Monorepo](https://img.shields.io/badge/Type-Monorepo-E63946?style=flat-square)](https://github.com/frontys/itstep) [![Stars](https://img.shields.io/github/stars/frontys/itstep?color=590D22&style=flat-square)](https://github.com/frontys/itstep) | [📂 Repository](https://github.com/frontys/itstep) |
 
 ---
 
@@ -52,10 +65,10 @@
 | Realm | Technologies & Frameworks |
 | :--- | :--- |
 | **Languages** | ![C#](https://img.shields.io/badge/-C%23-9B111E?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-C9184A?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-800F2F?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-590D22?style=flat-square&logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-3E1F47?style=flat-square&logo=sqlite&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
-| **Desktop & Backend** | ![.NET 9](https://img.shields.io/badge/-.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![WPF](https://img.shields.io/badge/-WPF-9B111E?style=flat-square) ![Telethon](https://img.shields.io/badge/-Telethon-C9184A?style=flat-square&logo=telegram&logoColor=white) ![Asyncio](https://img.shields.io/badge/-Asyncio-800F2F?style=flat-square) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Frontend & UI** | ![React 19](https://img.shields.io/badge/-React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **AI & Architecture** | ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-E63946?style=flat-square) ![Gemini API](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white) ![LLM Tooling](https://img.shields.io/badge/-Agentic%20Coding-C9184A?style=flat-square) |
-| **Tools & Environment** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Windows 11](https://img.shields.io/badge/-Windows%2011-0078D4?style=flat-square&logo=windows11&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **Desktop & Backend** | ![.NET 9](https://img.shields.io/badge/-.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![WPF](https://img.shields.io/badge/-WPF-9B111E?style=flat-square&logo=windows&logoColor=white) ![Win32 API](https://img.shields.io/badge/-Win32%20API-4A0E17?style=flat-square&logo=windows&logoColor=white) ![Telethon](https://img.shields.io/badge/-Telethon-C9184A?style=flat-square&logo=telegram&logoColor=white) ![Asyncio](https://img.shields.io/badge/-Asyncio-800F2F?style=flat-square) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Frontend & Web** | ![React 19](https://img.shields.io/badge/-React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **AI & Architecture** | ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-E63946?style=flat-square) ![Gemini API](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white) ![Agentic Tooling](https://img.shields.io/badge/-Agentic%20Coding-C9184A?style=flat-square) |
+| **Environment & Tooling** | ![Windows 11](https://img.shields.io/badge/-Windows%2011-0078D4?style=flat-square&logo=windows11&logoColor=white) ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 </div>
 
@@ -67,7 +80,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=frontys&show_icons=true&bg_color=0f080c&title_color=e63946&text_color=f1faee&icon_color=ff4d6d&border_color=590d22" alt="frontys's GitHub stats" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontys&layout=compact&bg_color=0f080c&title_color=e63946&text_color=f1faee&icon_color=ff4d6d&border_color=590d22" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontys&layout=compact&bg_color=0f080c&title_color=e63946&text_color=f1faee&icon_color=ff4d6d&border_color=590d22&hide=shell" alt="Top Languages" height="165" />
 
   <br><br>
 
@@ -76,6 +89,10 @@
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F080C,800F2F,E63946&height=80&section=footer" width="100%" alt="Footer" />
+</p>
 
 <div align="center">
   <sub>Crafted with crimson precision & devil royalty by <a href="https://github.com/frontys">@frontys</a> 🥀</sub>
